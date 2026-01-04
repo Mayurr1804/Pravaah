@@ -1,6 +1,20 @@
-# Microplastic Detection & Water Quality Prediction System
+# Pravaah – Microplastic Detection System
+
+🚀 Team Project | Competition Submission
+
+This project was developed by a team of 3 members as part of a competition focused on microplastic detection using Machine Learning and data-driven pipelines.
+
+🔗 Original Repository: https://github.com/Aadrika2106/Pravaah
+
+## My Contributions
+- Designed and implemented ML pipeline components
+- Performed data preprocessing and feature preparation
+- Trained and evaluated machine learning models
+
+## Microplastic Detection & Water Quality Prediction System
 
 An AI-powered system for detecting microplastics, predicting water quality, and simulating environmental impacts using machine learning, deep learning, and physics-informed models.
+
 
 ## Overview
 
@@ -68,8 +82,9 @@ Select any user role from the sidebar (no authentication required for demo).
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/microplastic-detection-system.git
-cd microplastic-detection-system
+git clone https://github.com/Mayurr1804/Pravaah.git
+cd Pravaah
+
 
 # Create virtual environment
 python -m venv venv
@@ -156,11 +171,10 @@ pravaah/
 * **Sangyan Hari Pushkar** – Team Member
 * **Mayur Mundada** – Team Member
 
-
 ## Contact
 
-* Email: [bt24eci032@iiitn.ac.in](mailto:bt24eci032@iiitn.ac.in)
-* GitHub: [https://github.com/Aadrika2106](https://github.com/Aadrika2106)
+* Email: [bt24eci005@iiitn.ac.in](mailto:bt24eci005@iiitn.ac.in)
+* GitHub: [https://github.com/Mayurr1804](https://github.com/Mayurr1804)
 
 
 If you find this project useful, consider starring the repository.
